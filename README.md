@@ -1,6 +1,7 @@
 # **Sepuluh Nopember Institute of Technology**
 # *Information System Department*
-***Octgi** Ristya Perdana ¬ **5213100176***
+***Octgi** Ristya Perdana ¬ **5213100176***,
+*Mochammad**Rizki** Wicaksono ¬ **5213100072***
 
 ----------
 
@@ -26,11 +27,46 @@ Mata Kuliah Teknologi Open Source Terbaru, berikut akan di jelaskan mengenai ste
 3. Copy *ODKAggregate.war* to tomcat directory.
 4. Execute file sql
 5. Copy *mysql-connector-java-5.1.38-bin* you can download it [here][3]
+6. Run it on localhost
 
+ - Make any form
+1. You can make any form [here][7]
+2. [Here][8] my example form of surat ijin tidak masuk sistem informasi ITS
+
+ - Upload form to ODKAggregate
+1. Setelah membuat form lakukan upload pada ODK aggregate
+
+ - Download ODK Collect on SmartPhone
+1. Go to playstore
+2. [Download odk collect][9]
+
+ - Setting ODKCollect to Connect to Server
+1. Go to setting and set ip server in address
+2. Get form
+3. Fill blank form
+
+
+ - Explain About [My Form][8]
+Form yang kelompok kami buat yaitu form yang digunakan untuk membuat sebuah surat ijin untuk tidak masuk bagi dosen dan karyawan.
+
+ - Here my video of setting ODKAggregate and ODKCollect
+1. ODK Aggregate[prememory][10]
+2. ODK Collect [Prememory][11]
+
+ - Berikut merupakan gambar hasil form
+1. hasil form ![alt text][12]
+
+ 
 
 [1]: https://opendatakit.org/downloads/
 [2]: https://avatars0.githubusercontent.com/u/6222985?v=3&s=400
 [3]: https://www.mysql.com/products/connector/
 [4]: https://www.mysql.com/downloads/
 [5]: https://java.com/en/download/
-[6]: https://java.com/en/download/
+[6]: https://www.apachefriends.org/download.html
+[7]: http://build.opendatakit.org 
+[8]: https://github.com/astridperdana/TOST/blob/master/form/SuratIjinTidakMasuk.xml
+[9]: https://opendatakit.org/use/collect/
+[10]: lorem ipsum
+[11]: lorem ipsum
+[12]: lorem ipsum
