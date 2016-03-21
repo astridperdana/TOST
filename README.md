@@ -1,7 +1,13 @@
 # **Sepuluh Nopember Institute of Technology**
 # *Information System Department*
-***Octgi** Ristya Perdana ¬ **5213100176***,
-*Mochammad**Rizki** Wicaksono ¬ **5213100072***
+
+----------
+
+| Type 		    | Contributor                                 |
+| ------------- |:-------------------------------------------:| 
+| GitHub        | // 5213100072  / Mochammad Rizki Wicaksono  | 
+| ODK Learning  | // 5213100072  / Mochammad Rizki Wicaksono  | 
+| 			    | // 5213100176  / Octgi Ristya Perdana       | 
 
 ----------
 
@@ -44,7 +50,7 @@ Mata Kuliah Teknologi Open Source Terbaru, berikut akan di jelaskan mengenai ste
 1. Go to setting and set ip server in address
 2. Get form
 3. Fill blank form
-
+4. Kirim Hasil ke server.
 
  - Explain About [My Form][8]
 Form yang kelompok kami buat yaitu form yang digunakan untuk membuat sebuah surat ijin untuk tidak masuk bagi dosen dan karyawan.
@@ -53,8 +59,11 @@ Form yang kelompok kami buat yaitu form yang digunakan untuk membuat sebuah sura
 1. ODK Aggregate[prememory][10]
 2. ODK Collect [Prememory][11]
 
- - Berikut merupakan gambar hasil form
+ - Berikut merupakan gambar hasil form, gambar form, file.doc form, dan form.xml
 1. hasil form ![alt text][12]
+2. gambar form ![alt text][13]
+3. form asli [disini][14]
+4. form xml [disini][8]
 
  
 
@@ -70,3 +79,4 @@ Form yang kelompok kami buat yaitu form yang digunakan untuk membuat sebuah sura
 [10]: lorem ipsum
 [11]: lorem ipsum
 [12]: lorem ipsum
+[13]: lorem ipsum
