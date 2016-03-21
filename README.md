@@ -56,14 +56,15 @@ Mata Kuliah Teknologi Open Source Terbaru, berikut akan di jelaskan mengenai ste
 Form yang kelompok kami buat yaitu form yang digunakan untuk membuat sebuah surat ijin untuk tidak masuk bagi dosen dan karyawan.
 
  - Here my video of setting ODKAggregate and ODKCollect
-1. ODK Aggregate[prememory][10]
-2. ODK Collect [Prememory][11]
+1. ODK Aggregate[here][10]
+2. ODK Collect [here][11]
 
  - Berikut merupakan gambar hasil form, gambar form, file.doc form, dan form.xml
-1. hasil form ![alt text][12]
+1. gambar hasil form ![alt text][12]
 2. gambar form ![alt text][13]
-3. form asli [disini][14]
-4. form xml [disini][8]
+3. form asli kosongan [disini][14]
+4. form asli sudah terisi [disini][15]
+5. form xml [disini][8]
 
  
 
@@ -76,7 +77,9 @@ Form yang kelompok kami buat yaitu form yang digunakan untuk membuat sebuah sura
 [7]: http://build.opendatakit.org 
 [8]: https://github.com/astridperdana/TOST/blob/master/form/SuratIjinTidakMasuk.xml
 [9]: https://opendatakit.org/use/collect/
-[10]: lorem ipsum
-[11]: lorem ipsum
-[12]: lorem ipsum
-[13]: lorem ipsum
+[10]: https://youtu.be/8Iu7k9p4Ejk
+[11]: https://drive.google.com/open?id=0BxQNvAm5b4liYmt1Z0k4dTNDajg
+[12]: https://drive.google.com/file/d/0BxQNvAm5b4liS0g0VzVvS1hoWUU/view?usp=sharing
+[13]: https://drive.google.com/open?id=0BxQNvAm5b4liSEpoNC1zd25aSDQ
+[14]: 
+[15]:
