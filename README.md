@@ -60,8 +60,10 @@ Form yang kelompok kami buat yaitu form yang digunakan untuk membuat sebuah sura
 2. ODK Collect [here][11]
 
  - Berikut merupakan gambar hasil form, gambar form, file.doc form, dan form.xml
-1. gambar hasil form ![alt text][12]
-2. gambar form ![alt text][13]
+1. gambar hasil form 
+![alt text][12]
+2. gambar form 
+![alt text][13]
 3. form asli kosongan [disini][14]
 4. form asli sudah terisi [disini][15]
 5. form xml [disini][8]
