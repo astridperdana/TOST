@@ -79,7 +79,7 @@ Form yang kelompok kami buat yaitu form yang digunakan untuk membuat sebuah sura
 [9]: https://opendatakit.org/use/collect/
 [10]: https://youtu.be/8Iu7k9p4Ejk
 [11]: https://drive.google.com/open?id=0BxQNvAm5b4liYmt1Z0k4dTNDajg
-[12]: https://drive.google.com/file/d/0BxQNvAm5b4liS0g0VzVvS1hoWUU/view?usp=sharing
-[13]: https://drive.google.com/open?id=0BxQNvAm5b4liSEpoNC1zd25aSDQ
+[12]: https://github.com/astridperdana/TOST/blob/master/form/sadas.PNG?raw=true
+[13]: https://github.com/astridperdana/TOST/blob/master/form/Capture.PNG?raw=true
 [14]: https://github.com/astridperdana/TOST/blob/master/doc/Dokumen%20Kosongan.docx
 [15]: https://github.com/astridperdana/TOST/blob/master/doc/Dokumen%20isian.docx
