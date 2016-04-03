@@ -5,7 +5,7 @@
 
 | Type 		    | Contributor                                 |
 | ------------- |:-------------------------------------------:| 
-| GitHub        | // 5213100072  / Mochammad Rizki Wicaksono  | 
+| GitHub        | // 5213100176  / Octgi Ristya Perdana  | 
 | ODK Learning  | // 5213100072  / Mochammad Rizki Wicaksono  | 
 | 			    | // 5213100176  / Octgi Ristya Perdana       | 
 
