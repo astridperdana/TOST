@@ -3,59 +3,55 @@
     <h:title>Untitled Form</h:title>
     <model>
       <instance>
-        <data id="build_Untitled-Form_1457763542">
+        <data id="build_Untitled-Form_1458618235">
           <meta>
             <instanceID/>
           </meta>
-          <Nama>
-            Insert Your Name
-          </Nama>
+          <Name>
+            Masukkan Nama Anda
+          </Name>
           <Jabatan>
-            Masukkan Jabatan Anda
+            Masukkan Jabatan ANda
           </Jabatan>
-          <Bagian>
-            Masukkan Bagian Anda
-          </Bagian>
-          <TanggalInput/>
-          <JenisIjin>
-            Pilih Salah Satu
-          </JenisIjin>
-          <Keterangan>
-            Choose One
-          </Keterangan>
+          <Divisi>
+            Masukkan Divisi Anda
+          </Divisi>
+          <Tanggal/>
+          <JenisIjin/>
+          <Mengetahui/>
         </data>
       </instance>
       <itext>
         <translation lang="eng">
-          <text id="/data/Nama:label">
-            <value>Name</value>
+          <text id="/data/Name:label">
+            <value>Nama</value>
           </text>
-          <text id="/data/Nama:hint">
-            <value>Ex : Octgi Ristya Perdana</value>
+          <text id="/data/Name:hint">
+            <value>Contoh : Nur Aini</value>
           </text>
           <text id="/data/Jabatan:label">
-            <value>Position</value>
+            <value>Jabatan</value>
           </text>
           <text id="/data/Jabatan:hint">
-            <value>Ex : Dosen, Karyawan</value>
+            <value>Contoh : Dosen, Kajur</value>
           </text>
-          <text id="/data/Bagian:label">
-            <value>Division</value>
+          <text id="/data/Divisi:label">
+            <value>Divisi</value>
           </text>
-          <text id="/data/Bagian:hint">
-            <value>Ex : Akademik, Keuangan</value>
+          <text id="/data/Divisi:hint">
+            <value>Contoh : Akademik</value>
           </text>
-          <text id="/data/TanggalInput:label">
-            <value>Date</value>
+          <text id="/data/Tanggal:label">
+            <value>Tanggal Ijin</value>
           </text>
-          <text id="/data/TanggalInput:hint">
-            <value>Tanggal Hari Ini</value>
+          <text id="/data/Tanggal:hint">
+            <value>Masukkan Tanggal Hari Ini</value>
           </text>
           <text id="/data/JenisIjin:label">
             <value>Jenis Ijin</value>
           </text>
           <text id="/data/JenisIjin:hint">
-            <value>Ex : sakit, melahirkan, cuti</value>
+            <value>Contoh : Sakit, Cuti</value>
           </text>
           <text id="/data/JenisIjin:option0">
             <value>Sakit</value>
@@ -64,47 +60,50 @@
             <value>Cuti</value>
           </text>
           <text id="/data/JenisIjin:option2">
-            <value>Ijin Dinas Luar</value>
-          </text>
-          <text id="/data/JenisIjin:option3">
             <value>Pulang Lebih Awal</value>
           </text>
-          <text id="/data/Keterangan:label">
-            <value>Keterangan</value>
+          <text id="/data/JenisIjin:option3">
+            <value>Ijin Dinas Luar</value>
           </text>
-          <text id="/data/Keterangan:hint">
+          <text id="/data/Mengetahui:label">
             <value>Mengetahui</value>
           </text>
-          <text id="/data/Keterangan:option0">
+          <text id="/data/Mengetahui:hint">
+            <value>Contoh : Kajur, Sekjur</value>
+          </text>
+          <text id="/data/Mengetahui:option0">
             <value>Kajur</value>
+          </text>
+          <text id="/data/Mengetahui:option1">
+            <value>Sekjur</value>
           </text>
         </translation>
       </itext>
       <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" calculate="concat('uuid:', uuid())"/>
-      <bind nodeset="/data/Nama" type="string" required="true()"/>
+      <bind nodeset="/data/Name" type="string" required="true()"/>
       <bind nodeset="/data/Jabatan" type="string" required="true()"/>
-      <bind nodeset="/data/Bagian" type="string" required="true()"/>
-      <bind nodeset="/data/TanggalInput" type="date" required="true()"/>
-      <bind nodeset="/data/JenisIjin" type="select1" readonly="true()"/>
-      <bind nodeset="/data/Keterangan" type="select" required="true()"/>
+      <bind nodeset="/data/Divisi" type="string" required="true()"/>
+      <bind nodeset="/data/Tanggal" type="date" required="true()"/>
+      <bind nodeset="/data/JenisIjin" type="select1" required="true()"/>
+      <bind nodeset="/data/Mengetahui" type="select" required="true()"/>
     </model>
   </h:head>
   <h:body>
-    <input ref="/data/Nama">
-      <label ref="jr:itext('/data/Nama:label')"/>
-      <hint ref="jr:itext('/data/Nama:hint')"/>
+    <input ref="/data/Name">
+      <label ref="jr:itext('/data/Name:label')"/>
+      <hint ref="jr:itext('/data/Name:hint')"/>
     </input>
     <input ref="/data/Jabatan">
       <label ref="jr:itext('/data/Jabatan:label')"/>
       <hint ref="jr:itext('/data/Jabatan:hint')"/>
     </input>
-    <input ref="/data/Bagian">
-      <label ref="jr:itext('/data/Bagian:label')"/>
-      <hint ref="jr:itext('/data/Bagian:hint')"/>
+    <input ref="/data/Divisi">
+      <label ref="jr:itext('/data/Divisi:label')"/>
+      <hint ref="jr:itext('/data/Divisi:hint')"/>
     </input>
-    <input ref="/data/TanggalInput">
-      <label ref="jr:itext('/data/TanggalInput:label')"/>
-      <hint ref="jr:itext('/data/TanggalInput:hint')"/>
+    <input ref="/data/Tanggal">
+      <label ref="jr:itext('/data/Tanggal:label')"/>
+      <hint ref="jr:itext('/data/Tanggal:hint')"/>
     </input>
     <select1 ref="/data/JenisIjin">
       <label ref="jr:itext('/data/JenisIjin:label')"/>
@@ -119,18 +118,22 @@
       </item>
       <item>
         <label ref="jr:itext('/data/JenisIjin:option2')"/>
-        <value>Ijin Dinas Luar</value>
+        <value>Pulang Lebih Awal</value>
       </item>
       <item>
         <label ref="jr:itext('/data/JenisIjin:option3')"/>
-        <value>Pulang Lebih Awal</value>
+        <value>Ijin Dinas Luar</value>
       </item>
     </select1>
-    <select ref="/data/Keterangan">
-      <label ref="jr:itext('/data/Keterangan:label')"/>
-      <hint ref="jr:itext('/data/Keterangan:hint')"/>
+    <select ref="/data/Mengetahui">
+      <label ref="jr:itext('/data/Mengetahui:label')"/>
+      <hint ref="jr:itext('/data/Mengetahui:hint')"/>
       <item>
-        <label ref="jr:itext('/data/Keterangan:option0')"/>
+        <label ref="jr:itext('/data/Mengetahui:option0')"/>
+        <value>Kajur</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/Mengetahui:option1')"/>
         <value>Sekjur</value>
       </item>
     </select>
